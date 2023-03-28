@@ -5,10 +5,6 @@
 
 
 
-### Tools & Technology 
-
-
-
 
 ### My Stats:
 [![Reggiejr44's github stats](https://github-readme-stats.vercel.app/api?username=Reggiejr44)](https://github.com/Reggiejr44/github-readme-stats)
