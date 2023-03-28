@@ -13,6 +13,9 @@
 |     3| SQL       |
 
 
+[![Reggiejr44's github stats](https://github-readme-stats.vercel.app/api?username=Reggiejr44)](https://github.com/Reggiejr44/github-readme-stats)
+
+
 <!--
 **Reggiejr44/Reggiejr44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
