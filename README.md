@@ -8,15 +8,11 @@
 
 
 ### Tools & Technology 
-| Number | Languages |
-|-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
 
 
 
 
+### My Stats:
 [![Reggiejr44's github stats](https://github-readme-stats.vercel.app/api?username=Reggiejr44)](https://github.com/Reggiejr44/github-readme-stats)
 
 
